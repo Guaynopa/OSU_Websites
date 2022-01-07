@@ -1,0 +1,30 @@
+<header>
+    <h1>S. Brenan</h1>
+  <nav>
+    <ul>
+      <li><a href="#cv">CV</a></li>
+      <li><a href="#pbt">Print-Based Text</a></li>
+      <li><a href="#website">Websites</a></li>
+      <li><a href="#code-work">Code Work</a></li>
+    </ul>
+</nav>
+</header>
+<main>
+    <article>
+        <h2>
+            About Me:
+        </h2>
+        <p>
+        I am a third year undergraduate at the Ohio State Univesity, majoring in Strategic Communications. I'm very passionate about equity. My goal is to find a position that allows me to positively influence underserved and marginalized communities by means of social, political, economical etc. reform.
+        </p>
+    </article>
+      <aside>
+        <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+       height="200"
+       width="200">
+  </aside>
+</main>
+<footer>
+    <p>&copy; S. Brenan</p>
+    <p><a href="#">Linkedin</a></p>
+</footer>
